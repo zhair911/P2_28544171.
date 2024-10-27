@@ -1,15 +1,20 @@
 {
-  "name": "javascript",
+  "name": "Javascript",
   "version": "1.0.0",
-  "description": "trabajo",
+  "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "primera tarea"
+    "start": "node app.js"
   },
-  "author": "Zhair Monsalve",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhair911/P2_28544171.git"
+  },
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.21.1",
-    "jade": "^1.11.0"
-  }
+  "bugs": {
+    "url": "https://github.com/zhair911/P2_28544171/issues"
+  },
+  "homepage": "https://github.com/zhair911/P2_28544171#readme"
 }
